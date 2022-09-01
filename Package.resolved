@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "packagea",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xabierSestafeAguirrezabal/PackageA.git",
+      "state" : {
+        "revision" : "cf8878712146056d75fdab209b8cac57cddf9aa9",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
